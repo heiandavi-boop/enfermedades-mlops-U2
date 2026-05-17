@@ -2,6 +2,7 @@
 # Machine learning operations 
 
 # enfermedades-mlops-U2
+# Presentado por William Suaza y Anderson Trujillo 
 
 Este repositorio contiene una solución académica de MLOps para simular un servicio de predicción médica. El objetivo es permitir que un médico ingrese variables clínicas básicas de un paciente y obtenga una clasificación del estado de enfermedad.
 
@@ -146,3 +147,6 @@ El repositorio incluye un workflow en `.github/workflows/ci-cd.yml` con dos even
 - `nueva-prediccion-terminal`: rama para agregar `ENFERMEDAD TERMINAL`.
 - `estadisticas-predicciones`: rama para agregar el reporte de estadísticas.
 - `añadir-github-actions`: rama para agregar el pipeline de CI/CD.
+
+## CI/CD
+Este repositorio incluye un pipeline de GitHub Actions para ejecutar pruebas unitarias, validar pull requests y construir la imagen Docker del servicio.
