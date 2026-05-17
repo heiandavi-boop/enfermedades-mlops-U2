@@ -1,4 +1,4 @@
-# Guía de comandos Git para cumplir la entrega
+
 
 > Reemplaza `enfermedades-mlops-U2` por el nombre real de tu repositorio si decides usar otro.
 
