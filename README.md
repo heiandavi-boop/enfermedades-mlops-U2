@@ -1,3 +1,5 @@
+# trabajo elaborado por Anderson Trujillo y William suaza 
+
 # enfermedades-mlops-U2
 
 Este repositorio contiene una solución académica de MLOps para simular un servicio de predicción médica. El objetivo es permitir que un médico ingrese variables clínicas básicas de un paciente y obtenga una clasificación del estado de enfermedad.
