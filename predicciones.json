@@ -1,0 +1,22 @@
+{
+  "total_por_categoria": {
+    "NO ENFERMO": 0,
+    "ENFERMEDAD LEVE": 0,
+    "ENFERMEDAD AGUDA": 1,
+    "ENFERMEDAD CRÓNICA": 0,
+    "ENFERMEDAD TERMINAL": 0
+  },
+  "ultimas_5_predicciones": [
+    {
+      "fecha": "2026-05-17T16:45:11",
+      "entrada": {
+        "temperatura": 45.0,
+        "sintomas": 6,
+        "dias_evolucion": 5,
+        "severidad": 5
+      },
+      "prediccion": "ENFERMEDAD AGUDA"
+    }
+  ],
+  "fecha_ultima_prediccion": "2026-05-17T16:45:11"
+}
